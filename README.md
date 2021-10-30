@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am Danesh 👋
 
 <!--
 **daneshzaki/daneshzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I like to try out new things and mostly code on node.js and Java. I am interested in <a href="https://github.com/daneshzaki/arcot">GraphQL</a>, <a href="https://github.com/daneshzaki/acmapiworkshop">APIs</a>, <a href="https://github.com/daneshzaki/kokpit">utilities</a> and <a href="https://github.com/daneshzaki/tashkent">Event Driven Architecture </a>. 
