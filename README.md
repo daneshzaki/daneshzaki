@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I like to try out new things and mostly code on node.js and Java. I am interested in AI, <a href="https://github.com/daneshzaki/arcot">GraphQL</a>, <a href="https://github.com/daneshzaki/acmapiworkshop">APIs</a>, <a href="https://github.com/daneshzaki/kokpit">utilities</a> and <a href="https://github.com/daneshzaki/tashkent">Event Driven Architecture </a>. - 🌱 I’m currently learning Python.
+I like to try out new things and mostly code on node.js and Java. I am interested in AI, <a href="https://github.com/daneshzaki/arcot">GraphQL</a>, <a href="https://github.com/daneshzaki/acmapiworkshop">APIs</a>, <a href="https://github.com/daneshzaki/kokpit">utilities</a> and <a href="https://github.com/daneshzaki/tashkent">Event Driven Architecture </a>. 🌱 I’m currently learning Python.
 
